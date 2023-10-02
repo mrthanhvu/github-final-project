@@ -1,2 +1,2 @@
-# Contribution Guidelines
-   - All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+# Contributing
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
